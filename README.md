@@ -13,6 +13,5 @@ After you make an edit, check the GitHub Desktop app and you'll see that it sees
 
 You can 'commit' as many times as you want.
 
-Test test
 
 
